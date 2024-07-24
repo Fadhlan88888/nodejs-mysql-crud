@@ -1,10 +1,10 @@
 var config = {
 	database: {
-		host:	  'localhost', 	// database host
-		user: 	  'root', 		// your database username
-		password: 'root', 		// your database password
+		host:	  'db4free.net', 	// database host
+		user: 	  'fadhlan77', 		// your database username
+		password: 'fadhlan77', 		// your database password
 		port: 	  3306, 		// default MySQL port
-		db: 	  'test' 		// your database name
+		db: 	  'users1' 		// your database name
 	},
 	server: {
 		host: '127.0.0.1',
